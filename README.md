@@ -3,7 +3,6 @@
 
 ![Preview del diseño](./design/desktop-preview.jpg)
 
-
 Bienvenido al taller de desarrollo web donde aprenderemos a crear y estilizar una página sencilla de recetas. Este taller se divide en dos partes:
 
 ## Parte 1: Desarrollo del HTML
